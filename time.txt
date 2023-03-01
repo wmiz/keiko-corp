@@ -1,0 +1,11 @@
+44.22s
+compress hero
+27.7s
+minify & combine js
+26.76s
+move bundle.min.js to end of body tag
+24.92s
+compress iphone
+22.87s
+minify css & combine owl css files
+21.59s
